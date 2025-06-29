@@ -322,3 +322,15 @@ h1, h2, h3 {
 p, a {
   font-weight: 400; 
 }
+.footer p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}    
+.footer p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #00ffff;
+  text-shadow: 0 0 5px #00ffffaa;
+}
+
